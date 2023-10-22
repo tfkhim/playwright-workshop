@@ -1,0 +1,14 @@
+{
+  "name": "playwright-workshop",
+  "version": "1.0.0",
+  "description": "A playwright example project for a workshop at ITCS",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Thomas Himmelstoss",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "1.39.0",
+    "@types/node": "20.8.7"
+  }
+}
